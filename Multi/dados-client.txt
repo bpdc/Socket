@@ -1,0 +1,180 @@
+2024-11-02 20:46:58 - Luz - Amostra 0 -> 600
+2024-11-02 20:47:00 - Luz - Amostra 1 -> 304
+2024-11-02 20:47:02 - Luz - Amostra 2 -> 839
+2024-11-02 20:47:04 - Luz - Amostra 3 -> 375
+2024-11-02 20:47:06 - Luz - Amostra 4 -> 871
+2024-11-02 20:47:08 - Luz - Amostra 5 -> 324
+2024-11-02 20:47:10 - Luz - Amostra 6 -> 569
+2024-11-02 20:47:12 - Luz - Amostra 7 -> 654
+2024-11-02 20:47:14 - Luz - Amostra 8 -> 559
+2024-11-02 20:47:16 - Luz - Amostra 9 -> 470
+2024-11-02 20:47:18 - Luz - Amostra 10 -> 874
+2024-11-02 20:47:20 - Luz - Amostra 11 -> 292
+2024-11-02 20:47:22 - Luz - Amostra 12 -> 117
+2024-11-02 20:47:24 - Luz - Amostra 13 -> 521
+2024-11-02 20:47:26 - Luz - Amostra 14 -> 874
+2024-11-02 20:47:28 - Luz - Amostra 15 -> 675
+2024-11-02 20:47:30 - Luz - Amostra 16 -> 956
+2024-11-02 20:47:32 - Luz - Amostra 17 -> 658
+2024-11-02 20:47:34 - Luz - Amostra 18 -> 965
+2024-11-02 20:47:36 - Luz - Amostra 19 -> 675
+2024-11-03 11:06:39 - senor luz - Amostra 0 -> 170
+2024-11-03 11:06:41 - senor luz - Amostra 1 -> 440
+2024-11-03 11:06:43 - senor luz - Amostra 2 -> 64
+2024-11-03 11:06:45 - senor luz - Amostra 3 -> 580
+2024-11-03 11:06:47 - senor luz - Amostra 4 -> 164
+2024-11-03 11:06:49 - senor luz - Amostra 5 -> 855
+2024-11-03 11:06:51 - senor luz - Amostra 6 -> 382
+2024-11-03 11:06:53 - senor luz - Amostra 7 -> 293
+2024-11-03 11:06:55 - senor luz - Amostra 8 -> 962
+2024-11-03 11:06:57 - senor luz - Amostra 9 -> 202
+2024-11-03 11:06:59 - senor luz - Amostra 10 -> 166
+2024-11-03 11:07:01 - senor luz - Amostra 11 -> 479
+2024-11-03 11:07:03 - senor luz - Amostra 12 -> 622
+2024-11-03 11:07:05 - senor luz - Amostra 13 -> 694
+2024-11-03 11:07:07 - senor luz - Amostra 14 -> 245
+2024-11-03 11:07:09 - senor luz - Amostra 15 -> 345
+2024-11-03 11:07:11 - senor luz - Amostra 16 -> 278
+2024-11-03 11:07:13 - senor luz - Amostra 17 -> 4
+2024-11-03 11:07:15 - senor luz - Amostra 18 -> 404
+2024-11-03 11:07:17 - senor luz - Amostra 19 -> 180
+2024-11-03 11:07:20 - sensor temp - Amostra 0 -> 363
+2024-11-03 11:07:22 - sensor temp - Amostra 1 -> 876
+2024-11-03 11:07:24 - sensor temp - Amostra 2 -> 663
+2024-11-03 11:07:26 - sensor temp - Amostra 3 -> 704
+2024-11-03 11:07:28 - sensor temp - Amostra 4 -> 4
+2024-11-03 11:07:30 - sensor temp - Amostra 5 -> 494
+2024-11-03 11:07:32 - sensor temp - Amostra 6 -> 254
+2024-11-03 11:07:34 - sensor temp - Amostra 7 -> 695
+2024-11-03 11:07:36 - sensor temp - Amostra 8 -> 158
+2024-11-03 11:07:38 - sensor temp - Amostra 9 -> 733
+2024-11-03 11:07:40 - sensor temp - Amostra 10 -> 749
+2024-11-03 11:07:42 - sensor temp - Amostra 11 -> 733
+2024-11-03 11:07:44 - sensor temp - Amostra 12 -> 945
+2024-11-03 11:07:46 - sensor temp - Amostra 13 -> 853
+2024-11-03 11:07:48 - sensor temp - Amostra 14 -> 780
+2024-11-03 11:07:50 - sensor temp - Amostra 15 -> 385
+2024-11-03 11:07:52 - sensor temp - Amostra 16 -> 701
+2024-11-03 11:07:54 - sensor temp - Amostra 17 -> 307
+2024-11-03 11:07:56 - sensor temp - Amostra 18 -> 486
+2024-11-03 11:07:58 - sensor temp - Amostra 19 -> 625
+2024-11-03 12:59:03 - Sensor Umidade - Amostra 0 -> 488
+2024-11-03 12:59:05 - Sensor Umidade - Amostra 1 -> 552
+2024-11-03 12:59:06 - Sensor Temperatura - Amostra 0 -> 126
+2024-11-03 12:59:07 - Sensor Luz - Amostra 0 -> 853
+2024-11-03 12:59:08 - Sensor Umidade - Amostra 2 -> 516
+2024-11-03 12:59:09 - Sensor Temperatura - Amostra 1 -> 392
+2024-11-03 12:59:10 - Sensor Luz - Amostra 1 -> 887
+2024-11-03 12:59:11 - Sensor Umidade - Amostra 3 -> 959
+2024-11-03 12:59:12 - Sensor Temperatura - Amostra 2 -> 418
+2024-11-03 12:59:13 - Sensor Luz - Amostra 2 -> 967
+2024-11-03 12:59:14 - Sensor Umidade - Amostra 4 -> 59
+2024-11-03 12:59:15 - Sensor Temperatura - Amostra 3 -> 409
+2024-11-03 12:59:16 - Sensor Luz - Amostra 3 -> 509
+2024-11-03 12:59:17 - Sensor Umidade - Amostra 5 -> 749
+2024-11-03 12:59:18 - Sensor Temperatura - Amostra 4 -> 976
+2024-11-03 12:59:19 - Sensor Luz - Amostra 4 -> 221
+2024-11-03 12:59:20 - Sensor Umidade - Amostra 6 -> 502
+2024-11-03 12:59:21 - Sensor Temperatura - Amostra 5 -> 188
+2024-11-03 12:59:22 - Sensor Luz - Amostra 5 -> 321
+2024-11-03 12:59:23 - Sensor Umidade - Amostra 7 -> 429
+2024-11-03 12:59:24 - Sensor Temperatura - Amostra 6 -> 964
+2024-11-03 12:59:25 - Sensor Luz - Amostra 6 -> 604
+2024-11-03 12:59:26 - Sensor Umidade - Amostra 8 -> 632
+2024-11-03 12:59:27 - Sensor Temperatura - Amostra 7 -> 226
+2024-11-03 12:59:28 - Sensor Luz - Amostra 7 -> 700
+2024-11-03 12:59:29 - Sensor Umidade - Amostra 9 -> 12
+2024-11-03 12:59:30 - Sensor Temperatura - Amostra 8 -> 283
+2024-11-03 12:59:31 - Sensor Luz - Amostra 8 -> 486
+2024-11-03 12:59:32 - Sensor Umidade - Amostra 10 -> 779
+2024-11-03 12:59:33 - Sensor Temperatura - Amostra 9 -> 86
+2024-11-03 12:59:34 - Sensor Luz - Amostra 9 -> 130
+2024-11-03 12:59:35 - Sensor Umidade - Amostra 11 -> 737
+2024-11-03 12:59:36 - Sensor Temperatura - Amostra 10 -> 518
+2024-11-03 12:59:37 - Sensor Luz - Amostra 10 -> 884
+2024-11-03 12:59:38 - Sensor Umidade - Amostra 12 -> 144
+2024-11-03 12:59:39 - Sensor Temperatura - Amostra 11 -> 793
+2024-11-03 12:59:40 - Sensor Luz - Amostra 11 -> 246
+2024-11-03 12:59:41 - Sensor Umidade - Amostra 13 -> 132
+2024-11-03 12:59:42 - Sensor Temperatura - Amostra 12 -> 554
+2024-11-03 12:59:43 - Sensor Luz - Amostra 12 -> 922
+2024-11-03 12:59:44 - Sensor Umidade - Amostra 14 -> 485
+2024-11-03 12:59:45 - Sensor Temperatura - Amostra 13 -> 480
+2024-11-03 12:59:46 - Sensor Luz - Amostra 13 -> 545
+2024-11-03 12:59:47 - Sensor Umidade - Amostra 15 -> 154
+2024-11-03 12:59:48 - Sensor Temperatura - Amostra 14 -> 684
+2024-11-03 12:59:49 - Sensor Luz - Amostra 14 -> 117
+2024-11-03 12:59:50 - Sensor Umidade - Amostra 16 -> 339
+2024-11-03 12:59:51 - Sensor Temperatura - Amostra 15 -> 156
+2024-11-03 12:59:52 - Sensor Luz - Amostra 15 -> 622
+2024-11-03 12:59:53 - Sensor Umidade - Amostra 17 -> 746
+2024-11-03 12:59:54 - Sensor Temperatura - Amostra 16 -> 638
+2024-11-03 12:59:55 - Sensor Luz - Amostra 16 -> 507
+2024-11-03 12:59:56 - Sensor Umidade - Amostra 18 -> 255
+2024-11-03 12:59:57 - Sensor Temperatura - Amostra 17 -> 961
+2024-11-03 12:59:58 - Sensor Luz - Amostra 17 -> 735
+2024-11-03 12:59:59 - Sensor Umidade - Amostra 19 -> 590
+2024-11-03 13:00:00 - Sensor Temperatura - Amostra 18 -> 379
+2024-11-03 13:00:01 - Sensor Luz - Amostra 18 -> 192
+2024-11-03 13:00:02 - Sensor Temperatura - Amostra 19 -> 217
+2024-11-03 13:00:03 - Sensor Luz - Amostra 19 -> 391
+2024-11-03 13:05:41 - Sensor LUZ - Amostra 0 -> 364
+2024-11-03 13:05:43 - Sensor LUZ - Amostra 1 -> 925
+2024-11-03 13:05:44 - Sensor UMIDADE - Amostra 0 -> 80
+2024-11-03 13:05:45 - Sensor LUZ - Amostra 2 -> 158
+2024-11-03 13:05:46 - Sensor TEMPERATURA - Amostra 0 -> 691
+2024-11-03 13:05:47 - Sensor UMIDADE - Amostra 1 -> 626
+2024-11-03 13:05:48 - Sensor LUZ - Amostra 3 -> 214
+2024-11-03 13:05:49 - Sensor TEMPERATURA - Amostra 1 -> 43
+2024-11-03 13:05:50 - Sensor UMIDADE - Amostra 2 -> 319
+2024-11-03 13:05:51 - Sensor LUZ - Amostra 4 -> 912
+2024-11-03 13:05:52 - Sensor TEMPERATURA - Amostra 2 -> 766
+2024-11-03 13:05:53 - Sensor UMIDADE - Amostra 3 -> 323
+2024-11-03 13:05:54 - Sensor LUZ - Amostra 5 -> 711
+2024-11-03 13:05:55 - Sensor TEMPERATURA - Amostra 3 -> 431
+2024-11-03 13:05:56 - Sensor UMIDADE - Amostra 4 -> 70
+2024-11-03 13:05:57 - Sensor LUZ - Amostra 6 -> 46
+2024-11-03 13:05:58 - Sensor TEMPERATURA - Amostra 4 -> 191
+2024-11-03 13:05:59 - Sensor UMIDADE - Amostra 5 -> 953
+2024-11-03 13:06:00 - Sensor LUZ - Amostra 7 -> 808
+2024-11-03 13:06:01 - Sensor TEMPERATURA - Amostra 5 -> 368
+2024-11-03 13:06:02 - Sensor UMIDADE - Amostra 6 -> 459
+2024-11-03 13:06:03 - Sensor LUZ - Amostra 8 -> 461
+2024-11-03 13:06:04 - Sensor TEMPERATURA - Amostra 6 -> 288
+2024-11-03 13:06:05 - Sensor UMIDADE - Amostra 7 -> 785
+2024-11-03 13:06:06 - Sensor LUZ - Amostra 9 -> 900
+2024-11-03 13:06:07 - Sensor TEMPERATURA - Amostra 7 -> 499
+2024-11-03 13:06:08 - Sensor UMIDADE - Amostra 8 -> 958
+2024-11-03 13:06:09 - Sensor LUZ - Amostra 10 -> 817
+2024-11-03 13:06:10 - Sensor TEMPERATURA - Amostra 8 -> 456
+2024-11-03 13:06:11 - Sensor UMIDADE - Amostra 9 -> 723
+2024-11-03 13:06:12 - Sensor LUZ - Amostra 11 -> 641
+2024-11-03 13:06:13 - Sensor TEMPERATURA - Amostra 9 -> 636
+2024-11-03 13:06:14 - Sensor UMIDADE - Amostra 10 -> 124
+2024-11-03 13:06:15 - Sensor LUZ - Amostra 12 -> 646
+2024-11-03 13:06:16 - Sensor TEMPERATURA - Amostra 10 -> 816
+2024-11-03 13:06:17 - Sensor UMIDADE - Amostra 11 -> 815
+2024-11-03 13:06:18 - Sensor LUZ - Amostra 13 -> 685
+2024-11-03 13:06:19 - Sensor TEMPERATURA - Amostra 11 -> 846
+2024-11-03 13:06:20 - Sensor UMIDADE - Amostra 12 -> 248
+2024-11-03 13:06:21 - Sensor LUZ - Amostra 14 -> 236
+2024-11-03 13:06:22 - Sensor TEMPERATURA - Amostra 12 -> 845
+2024-11-03 13:06:23 - Sensor UMIDADE - Amostra 13 -> 624
+2024-11-03 13:06:24 - Sensor LUZ - Amostra 15 -> 871
+2024-11-03 13:06:25 - Sensor TEMPERATURA - Amostra 13 -> 91
+2024-11-03 13:06:26 - Sensor UMIDADE - Amostra 14 -> 771
+2024-11-03 13:06:27 - Sensor LUZ - Amostra 16 -> 966
+2024-11-03 13:06:28 - Sensor TEMPERATURA - Amostra 14 -> 153
+2024-11-03 13:06:29 - Sensor UMIDADE - Amostra 15 -> 178
+2024-11-03 13:06:30 - Sensor LUZ - Amostra 17 -> 943
+2024-11-03 13:06:31 - Sensor TEMPERATURA - Amostra 15 -> 940
+2024-11-03 13:06:32 - Sensor UMIDADE - Amostra 16 -> 881
+2024-11-03 13:06:33 - Sensor LUZ - Amostra 18 -> 510
+2024-11-03 13:06:34 - Sensor TEMPERATURA - Amostra 16 -> 362
+2024-11-03 13:06:35 - Sensor UMIDADE - Amostra 17 -> 193
+2024-11-03 13:06:36 - Sensor LUZ - Amostra 19 -> 394
+2024-11-03 13:06:37 - Sensor TEMPERATURA - Amostra 17 -> 265
+2024-11-03 13:06:38 - Sensor UMIDADE - Amostra 18 -> 825
+2024-11-03 13:06:39 - Sensor TEMPERATURA - Amostra 18 -> 295
+2024-11-03 13:06:40 - Sensor UMIDADE - Amostra 19 -> 974
+2024-11-03 13:06:41 - Sensor TEMPERATURA - Amostra 19 -> 4
