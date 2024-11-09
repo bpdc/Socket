@@ -70,4 +70,28 @@ Two socket applications were developed using the concepts of single-thread and m
     </li>
 </ol>
 
+<h2> Como rodar a aplicação Multi Thread / How to run the Multi Thread application ✅</h2>
+
+### Pré-Requisitos / Prerequisites
+* Verificar se você possui o Python instalado e sua versão é adequada para o programa. <strong> [pt_br] </strong>
+* Ensure you have Python installed and check if its version is suitable for running the program. <strong> [en] </strong>
+
+<ol>
+    <li><strong>Clone o Repositório / Clone the repository </strong>
+        <p>Clone o repositório do GitHub para a sua máquina local usando o comando: <strong> [pt_br] </strong></p>
+        <p>Clone the GitHub repository to your local machine using the command: <strong> [en] </strong></p>
+        <pre><code>git clone https://github.com/bpdc/Socket.git
+</code></pre>
+    </li>
+    <li><strong>Abra os Arquivos no editor de código / Open the files in a code editor </strong>
+        <p>Abra o arquivo <code>server-sensor-multi.py</code> no seu editor de código e execute-o primeiro. Em seguida, abra <strong>vários</strong> arquivos <code>client-sensor-multi.py</code> (um para cada cliente) e execute-os simultaneamente. <strong> [pt_br] </strong></p>
+        <p>Open the <code>server-sensor-multi.py</code> file in your code editor and run it first. Then, open <strong>multiple</strong> <code>client-sensor-multi.py</code> files (one for each client) and run them simultaneously. <strong> [en] </strong></p>
+    </li>
+    <li><strong>Utilize a aplicação / Use the application </strong>
+        <p>Agora, interaja com o programa. O servidor pode aceitar várias conexões de clientes simultâneos, permitindo que você teste o envio de dados e receba respostas de múltiplos clientes ao mesmo tempo. <strong> [pt_br] </strong></p>
+        <p>Now, interact with the program. The server can accept multiple client connections simultaneously, allowing you to test data sending and receive responses from multiple clients at the same time. <strong> [en] </strong></p>
+    </li>
+</ol>
+
+
 
