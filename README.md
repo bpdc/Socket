@@ -46,3 +46,28 @@ Two socket applications were developed using the concepts of single-thread and m
   <li><strong>sys</strong> - (importada para acessar funcionalidades específicas do sistema operacional) <strong> [pt_br] </strong></li>
   <li><strong>sys</strong> - (imported for accessing system-specific functionality) <strong> [en] </strong></li>
 </ul>
+
+<h2> Como rodar a aplicação Single Thread / How to run the Single Thread application ✅ </h2>
+
+### Pré-Requisitos / Prerequisites
+* Verificar se você possui o Python instalado e sua versão é adequada para o programa. <strong> [pt_br] </strong>
+* Ensure you have Python installed and check if its version is suitable for running the program. <strong> [en] </strong>
+
+<ol>
+    <li><strong>Clone o Repositório / Clone the repository </strong>
+        <p>Clone o repositório do GitHub para a sua máquina local usando o comando: <strong> [pt_br] </strong></p>
+        <p>Clone the GitHub repository to your local machine using the command: <strong> [en] </strong></p>
+        <pre><code>git clone https://github.com/bpdc/Socket.git
+</code></pre>
+    </li>
+    <li><strong>Abra o Arquivo no editor de código / Open the files in a code editor </strong>
+        <p>Abra o arquivo <code>server-chat.py</code> no seu editor de código e execute-o primeiro. Em seguida, abra o arquivo <code>client-chat.py</code> e execute-o. <strong> [pt_br] </strong></p>
+        <p>Open the <code>server-chat.py</code> file in your code editor and run it first. Then, open the <code>client-chat.py</code> file and run it. <strong> [en] </strong></p>
+    </li>
+    <li><strong>Utilize a aplicação / Use the application </strong>
+        <p>Agora, interaja com o programa. O servidor aguarda a conexão de um único cliente, e o cliente pode enviar mensagens para o servidor e receber respostas. <strong> [pt_br] </strong></p>
+        <p>Now, interact with the program. The server waits for a single client connection, and the client can send messages to the server and receive responses. <strong> [en] </strong></p>
+    </li>
+</ol>
+
+
