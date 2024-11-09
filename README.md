@@ -93,5 +93,26 @@ Two socket applications were developed using the concepts of single-thread and m
     </li>
 </ol>
 
+## 📌 Socket - Informações importantes sobre a aplicação / Socket - Important Information about the Application 📌
 
+<p>Este foi um projeto individual que desenvolvi no ano de 2024, durante o terceiro semestre do curso de Bacharelado em Sistemas de Informação na Faculdade de Computação e Informática (FCI) da Universidade Presbiteriana Mackenzie, como parte da disciplina Comunicação de Dados. <strong> [pt_br] </strong></p>
+<p>This was an individual project I developed in 2024, during the third semester of the Bachelor's degree in Information Systems at the Faculty of Computing and Informatics (FCI) at Mackenzie Presbyterian University, as part of the Data Communication course. <strong> [en] </strong></p>
+
+<h2> Integrantes 🔽 </h2>
+<ul>
+  <li> Beatriz Pimenta de Camargo - <a href="mailto:10428378@mackenzista.com.br">10428378@mackenzista.com.br</a> - RA: 10428378 </li>
+</ul>
+
+<h2> Aplicação em Funcionamento / Application in Operation ▶️ </h2>
+
+<p>Assista ao vídeo abaixo para ver a aplicação em funcionamento. Não deixe de curtir o vídeo e comentar! <strong> [pt_br] </strong></p>
+<p>Watch the video below to see our application in action. Don't forget to like the video and leave a comment! <strong> [en] </strong></p>
+
+<a href="https://youtu.be/dMIC2ZEPs1Q" target="_blank">
+    <img src="https://img.youtube.com/vi/dMIC2ZEPs1Q/0.jpg" width="480" alt="Assista ao vídeo">
+</a>
+
+<h2> Entre em Contato / Get in touch 📬 </h2>
+<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
+<p>If you have any questions or suggestions about this project, feel free to contact me via email at <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [en] </strong></p>
 
