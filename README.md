@@ -100,7 +100,7 @@ Two socket applications were developed using the concepts of single-thread and m
 
 <h2> Integrantes 🔽 </h2>
 <ul>
-  <li> Beatriz Pimenta de Camargo - <a href="mailto:10428378@mackenzista.com.br">10428378@mackenzista.com.br</a> - RA: 10428378 </li>
+  <li> Beatriz Pimenta de Camargo - RA:</li>
 </ul>
 
 <h2> Aplicação em Funcionamento / Application in Operation ▶️ </h2>
