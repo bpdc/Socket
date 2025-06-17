@@ -100,7 +100,7 @@ Two socket applications were developed using the concepts of single-thread and m
 
 <h2> Integrantes 🔽 </h2>
 <ul>
-  <li> Beatriz Pimenta de Camargo - RA:</li>
+  <li> Beatriz Pimenta de Camargo </li>
 </ul>
 
 <h2> Aplicação em Funcionamento / Application in Operation ▶️ </h2>
